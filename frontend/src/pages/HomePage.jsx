@@ -18,7 +18,7 @@ const HomePage = () => {
 				<Text
 					fontSize={"30"}
 					fontWeight={"bold"}
-					bgGradient={"linear(to-r, cyan.400, blue.500)"}
+					bgGradient={"linear(to-r, orange.400, red.500)"}
 					bgClip={"text"}
 					textAlign={"center"}
 				>
